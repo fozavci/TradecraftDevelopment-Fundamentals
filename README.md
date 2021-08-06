@@ -2,7 +2,7 @@
 
 ## DEF CON - Adversary Village
 
-### Information
+### Event
 https://adversaryvillage.org/adversary-events/DEFCON-29/Fatih-Ozavci
 
 ### Summary
